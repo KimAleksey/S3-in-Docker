@@ -3,3 +3,9 @@
 venv/
 
 data/
+
+/.idea/.gitignore
+
+*.xml
+
+*.iml
